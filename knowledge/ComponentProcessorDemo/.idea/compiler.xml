@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="ComponentProcessorDemo.app" target="11" />
+      <module name="ComponentProcessorDemo.BaseModule" target="11" />
+      <module name="ComponentProcessorDemo.component-api" target="11" />
+      <module name="ComponentProcessorDemo.HomeModule" target="11" />
+      <module name="ComponentProcessorDemo.MessageModule" target="11" />
+      <module name="ComponentProcessorDemo.MineModule" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

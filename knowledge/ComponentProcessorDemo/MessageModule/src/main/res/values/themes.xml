@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.ComponentProcessorDemo.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.ComponentProcessorDemo.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.ComponentProcessorDemo.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
